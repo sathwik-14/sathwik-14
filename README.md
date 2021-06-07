@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+####Sathwik here,
 <!--
 **sathwik-14/sathwik-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on completing a 30-days course @DevIncept
+- 🔭 I’m currently working on completing a 30-days course [@DevIncept](https://devincept.tech/)
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on any web devwlopment project
 - 🤔 I’m looking for help with carrier in Full Stack Development
-- 💬 Ask me about Photography(Totally irrelevent!):smily
+- 💬 Ask me about Photography(Totally irrelevent!)
 - 📫 How to reach me: kywagle@gmail.com
 - 😄 Pronouns:Zweeki
 - ⚡ Fun fact:I am Single
