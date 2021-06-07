@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on completing a 30-days course [@DevIncept](https://devincept.tech/)
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on any web devwlopment project
+- 👯 I’m looking to collaborate on any web development project
 - 🤔 I’m looking for help with carrier in Full Stack Development
 - 💬 Ask me about Photography(Totally irrelevent!):stuck_out_tongue_closed_eyes:
 - 📫 How to reach me: kywagle@gmail.com
