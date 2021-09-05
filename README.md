@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on completing a 30-days course [@DevIncept](https://devincept.tech/)
+- 🔭 I’m currently working on completing a backend web dev course [@udemy]
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on any web development project
 - 🤔 I’m looking for help with carrier in Full Stack Development
