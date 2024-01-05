@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with carrier in Full Stack Development
 - 💬 Ask me about Photography(Totally irrelevent!):stuck_out_tongue_closed_eyes:
 - 📫 How to reach me: kywagle@gmail.com
-- 😄 Pronouns:Zweeki
+- 😄 Pronouns:He/him
 - ⚡ Fun fact:I am Single
