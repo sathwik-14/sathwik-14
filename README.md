@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on completing a backend web dev course [@udemy]
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on any web development project
+- 🔭 I’m currently working on building a backend framework
+- 🌱 I’m currently learning latest technologies
+- 👯 I’m looking to collaborate on any real world project
 - 🤔 I’m looking for help with carrier in Full Stack Development
-- 💬 Ask me about Photography(Totally irrelevent!):stuck_out_tongue_closed_eyes:
+- 💬 Ask me about anything:stuck_out_tongue_closed_eyes:
 - 📫 How to reach me: kywagle@gmail.com
 - 😄 Pronouns:He/him
 - ⚡ Fun fact:I am Single
