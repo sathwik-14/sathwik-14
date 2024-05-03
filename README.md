@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning latest technologies
 - 👯 I’m looking to collaborate on any real world project
 - 🤔 I’m looking for help with carrier in Full Stack Development
-- 💬 Ask me about anything:stuck_out_tongue_closed_eyes:
+- 💬 Ask me about anything
 - 📫 How to reach me: kywagle@gmail.com
 - 😄 Pronouns:He/him
 - ⚡ Fun fact:I am Single
